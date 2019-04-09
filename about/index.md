@@ -8,6 +8,8 @@ comments: false
 
 <center><a href="http://guanming1989.github.io"><b>Ming</b></a> is a composer.</center>
 
+## Studi Musicali
+
 ## Works
 * Minimal, you can focus on your content
 * Responsive
