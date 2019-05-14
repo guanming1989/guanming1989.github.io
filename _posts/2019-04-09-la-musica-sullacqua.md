@@ -2,7 +2,7 @@
 layout: post
 title:  "La Musica Sull'acqua"
 date:   2019-05-13
-excerpt: "Un progetto musicale sulle rive del Po "
+excerpt: "Un progetto musicale sulle rive del Po 123"
 project: true
 comments: true
 image: ""
