@@ -1,11 +1,11 @@
-# bundle exec jekyll
+#
 title:              "GUAN MING"
 bio:                'il mio progetto'
 description:        "compositor"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/foto1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://guanming1989.github.io
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              ghbxyz@126.com
 twitter:            Otto75854692
 facebook:           ming.guan.1232
 github-url:         guanming1989
