@@ -4,4 +4,8 @@ title: lavori
 excerpt: "A List of Posts"
 comments: false
 ---
-##
+## La dea del fiume Luo
+
+E' ispirataad una poesia che esprime la gita al fiume di un uomo.
+Durante questa gita, ha incontrato un Dea e si sono subito innamorati.pero' alla fine si sono lasciati.Perche nella cina del passato era molto difficile per un unmo e una Dea innamorarsi,anche oggi, ma e' permesso in occidente. quindi esisite un barriera tra di loro.
+per la musica e' la stessa cosa,unire la musica orientale e quella occidentale e' molto difficile non solo per la differenza colturale ma anche perche utilizzaiomo strumenti musicali molto diversi tra loro.
