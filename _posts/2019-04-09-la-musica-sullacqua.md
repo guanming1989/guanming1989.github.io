@@ -16,4 +16,9 @@ un progetto di Roberto Doati,Riccardo Dapelo con la collaborazione di Marco Alpi
 Il progetto nasce dalla volonta' di sensibilizzare le nuove generazioni di musicisti al grande patrimonio rappresentato dal Po.
 Ogni elemento artistico-musicale di questo evento muove dalle voci del grande fiume per organizzare la contruzione di un paesaggio sonoro a volte misterioso, a volte intellegibile,ma sempre disgnato dall'esperiezza acutica personale di ognuno.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vYZXCWD7uSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/vYZXCWD7uSM"
+frameborder="0" allow="accelerometer; autoplay;
+encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
