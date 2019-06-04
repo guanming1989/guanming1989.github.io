@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: posts
+title: pezzo
 excerpt: "A List of Posts"
 comments: false
 ---
