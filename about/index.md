@@ -11,16 +11,9 @@ comments: false
 ## Studi Musicali
 
 ## Works
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* la musica dell'Acqua
+* un pezzo per 8 viole
+*
 
 ## Video
 
