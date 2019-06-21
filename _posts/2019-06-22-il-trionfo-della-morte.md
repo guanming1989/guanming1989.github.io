@@ -9,4 +9,6 @@ comments: true
 
 ## Le interminabili pene dell'inferno
 
-La rappresentazione dell'oratorio
+E' ispirata al tema Morte, in sisitema di buddismo,se un uomo quando si vive,ha fatto delle colpe serie,certamente sara' nell'interno dopo la morte.
+in inferno ci sono 18 piani,il piu' basso piano e' molto terribile,si chiama"
+inferno interminabile. per questo ho usato la forma simmetrica cioe' inizio e' la fine, la fine e' anche l'inizio.
