@@ -27,7 +27,7 @@ allowfullscreen>
 
 {% capture images %}
     https://guanming1989.github.io/assets/img/favicons/155780a5805130c.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://guanming1989.github.io/assets/img/favicons/foto3.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
