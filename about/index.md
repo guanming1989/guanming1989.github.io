@@ -12,7 +12,7 @@ comments: false
 
 ## Works
 
-# la musica dell'Acqua
+### la musica dell'Acqua
 la misica 1234
 
 * un pezzo per 8 viole
@@ -29,7 +29,7 @@ allowfullscreen>
 </iframe>
 
 {% capture images %}
-    https://guanming1989.github.io/assets/img/favicons/155780a5805130c.jpg
+assets/img/155780a5805130c.jpg
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
