@@ -2,8 +2,8 @@
 layout: page
 title: About Me
 tags: [il mio progetto]
-date: 2019-04-09
-comments: false
+date: 2019-6-25
+comments: ture
 ---
 
 <center><a href="http://guanming1989.github.io"><b>Ming</b></a> is a composer.</center>
