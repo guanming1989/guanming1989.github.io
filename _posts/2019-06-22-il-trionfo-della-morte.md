@@ -15,9 +15,3 @@ Questo brano è ispirato al tema della morte: per il buddismo, se un uomo nella 
 {% capture images %}
 !(https://guanming1989.github.io/assets/img/favicons/155780a5805130c.jpg)
 =======
->>>>>>> parent of 691fedc... foto
-=======
-E' ispirata al tema Morte, in sisitema di buddismo,se un uomo quando si vive,ha fatto delle colpe serie,certamente sara' nell'interno dopo la morte.
-in inferno ci sono 18 piani,il piu' basso piano e' molto terribile,si chiama"
-inferno interminabile. per questo ho usato la forma simmetrica cioe' inizio e' la fine, la fine e' anche l'inizio.
->>>>>>> parent of 19442d7... accento
