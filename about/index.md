@@ -12,9 +12,7 @@ comments: false
 
 ## Works
 
-### la musica dell'Acqua
-la misica 1234
-
+* la musica dell'Acqua
 * un pezzo per 8 viole
 * strumentazione e orchestrazione
 * linguaggio musicale"Talea"
