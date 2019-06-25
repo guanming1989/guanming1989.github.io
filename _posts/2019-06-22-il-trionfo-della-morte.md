@@ -14,4 +14,4 @@ Questo brano è ispirato al tema della morte: per il buddismo, se un uomo nella 
 
 ## foto
 
-!(https://github.com/guanming1989/guanming1989.github.io/blob/master/assets/img/155780a5805130c.jpg)
+https://github.com/guanming1989/guanming1989.github.io/blob/master/assets/img/155780a5805130c.jpg
