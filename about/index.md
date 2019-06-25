@@ -10,7 +10,7 @@ comments: false
 
 ## Studi Musicali
 
-# Works
+# Lavori
 
 * la musica dell'Acqua
 * un pezzo per 8 viole
