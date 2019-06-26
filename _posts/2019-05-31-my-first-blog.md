@@ -8,7 +8,8 @@ comments: true
 ---
 ## Un pezzo per 8 viole e 1 violoncello
 
-Il tema deve essere dalla canzone popolare.
+
+Il teme deve essere da una canzone popolare
 
 <iframe width="560" height="315"
  src="https://www.youtube.com/embed/k7jhvwG9hdo"
