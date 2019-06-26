@@ -32,10 +32,5 @@ assets/img/155780a5805130c.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-<figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-
+      L(　；ω；)┘三└(；ω；　)」
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
