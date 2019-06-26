@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "il progetto nuovo"
+title:  "Il progetto nuovo"
 date:   2019-06-04
-excerpt: "un per 8 viole"
+excerpt: "Un pezzo per 8 viole"
 project:  true
 comments: true
 ---
 ## Un pezzo per 8 viole e 1 violoncello
 
-un pezzo per 8 viole e 1 violoncello
+Il tema deve essere dalla canzone popolare.
 
 <iframe width="560" height="315"
  src="https://www.youtube.com/embed/k7jhvwG9hdo"
