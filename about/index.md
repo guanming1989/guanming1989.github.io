@@ -29,8 +29,7 @@ allowfullscreen>
 {% capture images %}
 assets/img/155780a5805130c.jpg
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
 
       L(　；ω；)┘三└(；ω；　)」
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
+Per non posso aggiunggere la foto????????????
