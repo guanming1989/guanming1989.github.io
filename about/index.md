@@ -27,20 +27,13 @@ allowfullscreen>
 </iframe>
 
 {% capture images %}
-assets/img/155780a5805130c.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+
 
 
 <<<<<<< HEAD
       L(　；ω；)┘三└(；ω；　)」   L(　；ω；)┘三└(；ω；　)」
         L(　；ω；)┘三└(；ω；　)」    L(　；ω；)┘三└(；ω；　)」
-Per non posso aggiunggere la foto????????????
-=======
-<figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
+
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 >>>>>>> parent of 0a7e6a3... goto
