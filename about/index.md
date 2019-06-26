@@ -32,7 +32,8 @@ assets/img/155780a5805130c.jpg
 
 
 <<<<<<< HEAD
-      L(　；ω；)┘三└(；ω；　)」
+      L(　；ω；)┘三└(；ω；　)」   L(　；ω；)┘三└(；ω；　)」
+        L(　；ω；)┘三└(；ω；　)」    L(　；ω；)┘三└(；ω；　)」
 Per non posso aggiunggere la foto????????????
 =======
 <figure class="half">
