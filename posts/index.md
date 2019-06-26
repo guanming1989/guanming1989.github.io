@@ -11,8 +11,15 @@ excerpt: "A List of Posts"
 comments: ture
 >>>>>>> parent of 7060162... layout:posts/index.md
 ---
-## La dea del fiume Luo
+## Git e GitHub
 
-Ispirata al una poesia che esprime la gita al fiume di un uomo.
-Durante questa gita, ha incontrato un Dea e si sono subito innamorati.però alla fine si sono lasciati.Perche nella cina del passato era molto difficile per un unmo e una Dea innamorarsi,anche oggi, ma è permesso in occidente. quindi esisite un barriera tra di loro.
-per la musica è la stessa cosa,unire la musica orientale e quella occidentale è molto difficile non solo per la differenza colturale ma anche perche utilizzaiomo strumenti musicali molto diversi tra loro.
+Git è un' applicazione che ci permette fare versione del nostro codice.
+Github è una piattaforma molto utile perchè un questo si può tornare in dietro in storia del nostro codice e modifica degli errori, ripubblicarlo nuovamente.
+
+## Atom
+
+è un editor per testo è codice open source,sviluppato dal Github.
+
+## Markdown
+
+è un linguaggio che controlla su Atom per modificare il Web.
